@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 Challenge 1: Build Agents — Insurance Claims Processing
 Claims Triage Agent and Claims Decision Agent for ClaimSight Insurance.
