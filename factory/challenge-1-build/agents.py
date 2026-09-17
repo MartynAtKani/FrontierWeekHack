@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 Challenge 1: Build Agents — SDK Track
 Anomaly Detection Agent and Fault Diagnosis Agent for TireForge Industries.

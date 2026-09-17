@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 Challenge 2: Monitor with Application Insights — Claims Processing
 Enable GenAI tracing and verify traces appear in App Insights.

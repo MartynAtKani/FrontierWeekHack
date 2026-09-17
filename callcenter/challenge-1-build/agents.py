@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 Challenge 1: Build Agents — SDK Track
 Intent Classification Agent and Resolution Advisor Agent for NovaTel Communications.

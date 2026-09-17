@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 Challenge 4: Production Workflow — Claims Processing
 Multi-agent orchestration workflow for ClaimSight Insurance.

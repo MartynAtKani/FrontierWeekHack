@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """
 Challenge 4: Production Workflow -- SDK Track
 Multi-agent orchestration workflow for TireForge Industries.
